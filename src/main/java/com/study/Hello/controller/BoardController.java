@@ -1,7 +1,7 @@
-package com.study.board.controller;
+package com.study.Hello.controller;
 
-import com.study.board.entity.Board;
-import com.study.board.service.BoardService;
+import com.study.Hello.entity.Board;
+import com.study.Hello.service.BoardService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
